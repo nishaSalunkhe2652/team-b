@@ -1,0 +1,5 @@
+.venv/
+__pycache__/
+*.pyc
+dedup_test.txt
+test_file.txt
